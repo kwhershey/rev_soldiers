@@ -1,0 +1,3 @@
+all:
+	g++ -Wno-write-strings -o project4 project4.cpp graph.cpp gml-parser/gml_parser.c gml-parser/gml_scanner.c
+

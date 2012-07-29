@@ -1,0 +1,811 @@
+{\rtf1\ansi\ansicpg1252\deff0
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Liberation Serif;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Dingbats;}
+{\f3\fnil\fcharset0\fprq0\fttruetype Symbol;}
+{\f4\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;}
+{\stylesheet
+{\s1\fi-431\li720\sbasedon28\snext28Contents 1;}
+{\s2\fi-431\li1440\sbasedon28\snext28Contents 2;}
+{\s3\fi-431\li2160\sbasedon28\snext28Contents 3;}
+{\s8\fi-431\li720\sbasedon28Lower Roman List;}
+{\s5\tx431\sbasedon24\snext28Numbered Heading 1;}
+{\s6\tx431\sbasedon25\snext28Numbered Heading 2;}
+{\s7\fi-431\li720Square List;}
+{\*\cs11\sbasedon28Endnote Text;}
+{\s4\fi-431\li2880\sbasedon28\snext28Contents 4;}
+{\s9\fi-431\li720Diamond List;}
+{\s10\fi-431\li720Numbered List;}
+{\*\cs12\fs20\superEndnote Reference;}
+{\s13\fi-431\li720Triangle List;}
+{\s14\tx431\sbasedon26\snext28Numbered Heading 3;}
+{\s15\fi-431\li720Dashed List;}
+{\s16\fi-431\li720\sbasedon10Upper Roman List;}
+{\s17\sb440\sa60\f1\fs24\b\sbasedon28\snext28Heading 4;}
+{\s18\fi-431\li720Heart List;}
+{\s34\fi-431\li720Box List;}
+{\s20\fi-431\li720\sbasedon10Upper Case List;}
+{\s21\fi-431\li720Bullet List;}
+{\s22\fi-431\li720Hand List;}
+{\*\cs23\fs20\sbasedon28Footnote Text;}
+{\s24\sb440\sa60\f1\fs34\b\sbasedon28\snext28Heading 1;}
+{\s25\sb440\sa60\f1\fs28\b\sbasedon28\snext28Heading 2;}
+{\s19\qc\sb240\sa120\f1\fs32\b\sbasedon28\snext28Contents Header;}
+{\s27\fi-431\li720Tick List;}
+{\s26\sb440\sa60\f1\fs24\b\sbasedon28\snext28Heading 3;}
+{\s29\fi-431\li720\sbasedon10Lower Case List;}
+{\s30\li1440\ri1440\sa120\sbasedon28Block Text;}
+{\s36\f4\sbasedon28Plain Text;}
+{\s32\tx1584\sbasedon5\snext28Section Heading;}
+{\s33\fi-431\li720Implies List;}
+{\s28\f0\fs24Normal;}
+{\s35\fi-431\li720Star List;}
+{\*\cs31\fs20\superFootnote Reference;}
+{\s37\tx1584\sbasedon5\snext28Chapter Heading;}}
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\info\uc1}\deftab720\viewkind1\paperw11905\paperh16837\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\headery0\footery0\pgncont\ltrsect
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KENDRICK, WILLIAM }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KENDRICK, WILLIAM }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: John, William, Susan, Sarah, Mary}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KILLEBREW, LAWRENCE}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KILLEBREW, LAWRENCE}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Lucy, Mary Elizabeth, Lawrence}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KILLION, JACOB}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KILLION, JACOB}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Michael}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KING, HUGH}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: December 17, 1754 in Scot land}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KING, HUGH}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: December 17, 1754 in Argyle, Scotland}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Anna, Alexander, William M, Elizabeth}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KIRK, WILLIAM }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1754 in Virginia}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KIRK, WILLIAM }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1754 in Fauquier County, Virginia}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Winifred, Mary, Armsted, Alexander}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KNIGHT, JAMES, SR.}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: August 20, 1750 in South Carolina}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KNIGHT, JAMES, SR.}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: August 20, 1750 in Abington twsp Philidalphia, PA}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Margaret, James, Thomas, William}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KNIGHTEN, THOMAS}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch KNIGHTEN, THOMAS}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Elizabeth}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LACKEY, ADAM}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LACKEY, ADAM}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: (1) Janet Burney}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch (2) Catherine}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: John, Sarah Ann, Mary Ann, Nancy Olivia}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LAMB, JOHN, SR.}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Comfort}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LAMB, JOHN, SR.}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Comfort Bellah}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: James, Mary, Nancy}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LAND, MOSES }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LAND, MOSES }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Nancy, Philip, Lewis, Aaron}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LANGSTON, WILLIAM C. }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LANGSTON, WILLIAM C. }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: William A, Zarabable, Rebecca}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LEMEN (Lemon), JAMES}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LEMEN (Lemon), JAMES}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Chilren: James, Joseph, Rovert, Moses}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LEWIS, TIMOTHY }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LEWIS, TIMOTHY }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Sylvia, Calvin, Stillman, Diantha, John}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LYERLE (Lierly), CHRISTOPHER}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LYERLE (Lierly), CHRISTOPHER}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: John, Jacob, Aaron}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LYERLY (Lierly), ZACHARIAH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LYERLY (Lierly), ZACHARIAH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouses: (1) Mary Harkey}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch (2) Margaret Catherine Meisenheimer}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch (3)Catherine Van Pool}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch (4) Sarah Snyder}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LIPE, LEONARD}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LIPE, LEONARD}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Barbara Henty}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Jacob}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LIPSEY (Lipsie, Lipse), JOHN}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1732}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LIPSEY (Lipsie, Lipse), JOHN}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1732 Ireland}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Eleanor}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LOOKER, OTHNIEL }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LOOKER, OTHNIEL }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Samuel, Benjamin, Henry, Rachel}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LORTON,ROBERT}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LORTON,ROBERT}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Thomas, Robert, Susannah, Henry, Sarah}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LUCAS, ABRAM (Abraham)}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LUCAS, ABRAM (Abraham)}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Thomas, James, Sarah, John, Joseph}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LUNSFORD, GEORGE}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LUNSFORD, GEORGE}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Elizabeth, Jacob, William}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LUTTRELL, MICHAEL }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch LUTTRELL, MICHAEL }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Ann Shelton}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Thomas, Michael jr, Alfred}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MAKEMSON, THOMAS }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1753in Pennsylvania}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MAKEMSON, THOMAS }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1753 Cork, Ireland}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Andrew, James, Eliza, Samuel}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MANLEY, DAVID}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: Easton, Massachusetts}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MANLEY, DAVID}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1754 Easton, Massachusetts}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Died: post 1838}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Desire}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MASSIE, THOMAS}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MASSIE, THOMAS}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Mary, Frances}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MAULDING, AMBROSE }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MAULDING, AMBROSE }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: (1) Peggy}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch (2) Mary Purdy}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: William, Ennis, John, Keeling}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MAXEY (Maxcy), JOEL}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MAXEY (Maxcy), JOEL}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: James, Samuel Owens}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MAXWELL, JOHN A.}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MAXWELL, JOHN A.}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: John, William, Elizabeth}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McADAMS, WILLIAM}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McADAMS, WILLIAM}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Polly, William, Holly, Elizabeth}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McALLISTER (McCallister), EDWARD}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: __ DeHart}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McALLISTER (McCallister), EDWARD}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Mary DeHart}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Edward, James, John, Simon}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McCLURE, SAMUEL}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McCLURE, SAMUEL}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Chldren: James, Andrew}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McCLURKIN (McClerken), THOMAS, SR.}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1756 in Chester County, Camden District, South Carolina }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McCLURKIN (McClerken), THOMAS, SR.}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1756 Ireland}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: James, Thomas, John}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McCOY, DANIEL}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: October 15, 1761}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McCOY, DANIEL}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: October 15, 1761 Scotland}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: John, Kenneth}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McDILL, JOHN }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born : 1748/9 }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McDILL, JOHN }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born : 1748/9 Belfast, Ireland}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Jane, William, Thomas}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McKELVEY, HUGH}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McKELVEY, HUGH}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Charles, Jennet, John, Alexander, Charles, Margaret, Anne}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McMILLAN, DANIEL}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1752}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McMILLAN, DANIEL}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1752 Antrim, Ireland}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Mary, James T}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McNABB, WILLIAM }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1760}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McNABB, WILLIAM }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1760 Lancaster County, PA}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: James H, Samuel, Esther}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McNARY, HUGH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: August 21, 1762 probably North Carolina}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Elisabeth}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McNARY, HUGH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: August 21, 1762 Morris County, NJ}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Elisabeth Lindsay}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: James, Jane L, Alexander, Elizabeth, John, Catherine}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MEANS, WILLIAM}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: May 3, 1763}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MEANS, WILLIAM}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: May 3, 1763 Augausta County, VA}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: John C, Margarey, Thomas, Nancy, THomas, William W, Hugh, Jane}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MEISENHEIMER, PETER}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1755probably in Pennsylvania}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Magdalena}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MEISENHEIMER, PETER}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1755 Philadelphia County, PA}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Mary Magdalena Klein}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Leah, Mary, Jacob, Mathias, David, Elizabeth}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MELTON, BENJAMIN}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MELTON, BENJAMIN}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Lucinda, Absalom}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MILLER, FRANCIS}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MILLER, FRANCIS}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Margery, James, Lemuel}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MINER, AARON }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: March 17, 1757}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MINER, AARON }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: March 17, 1757 Brimfield, CT}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Frederick T, Lovina, Ashbil}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MINZES (Menzies, Minns), JOSEPH}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: April 9, 1755}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MINZES (Menzies, Minns), JOSEPH}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: April 9, 1755 NC}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Daniel, Martha, Sarah}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MITCHELL, REV. EDWARD }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: August 3, 1760 Cecil County, Maryland }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MITCHELL, REV. EDWARD }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: August 3, 1760 Hanover County, VA}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Sarah, Nancy, Sophia, William, Edward, Mary Frances}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MITCHELL, JAMES}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: March 27, 1727 in Cecil County, Maryland}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MITCHELL, JAMES}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: March 27, 1727 Hanover County, VA}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Edward, Samuel, Shadrick}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MISNER (Mizner), HENRY}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MISNER (Mizner), HENRY}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Fletcher, Demarquis, Elisha, Christopher, Lewis, Elizabeth, Henry Jr. }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MONTGOMERY, JOHN}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MONTGOMERY, JOHN}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Jane, Sarah, Martha, John}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MOODY, EDMUND (Edward)}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MOODY, EDMUND (Edward)}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Elzadie, Sarah, William}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MOORE, ANDREW}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: June 9, 1758}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MOORE, ANDREW}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: June 9, 1758 York, PA}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Shepherd, Sarah, Robert}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MOORE, CHARLES }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MOORE, CHARLES }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Alice, Sarah, Priscilla, William C}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MOORE, RISDON }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MOORE, RISDON }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Verlinda, Elizabeth, Jonathan, William}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MOORE, THOMAS }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MOORE, THOMAS Guthrie}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch SpouseL Edith Trent}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: John, Thomas, Elizabeth, John}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Pension: S33137}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MORRIS, TRAVIS }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Died: After 1833 }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MORRIS, TRAVIS }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Died: 9/12/1841 Union county , IL}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Eli}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MORRISON, JOSEPH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MORRISON, JOSEPH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Joseph, Ruth, Kessiah, James, Horatio, Sarah}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MOSS, ZEALLY }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MOSS, ZEALLY }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Nancy, Jennette, Lydia, Elizabeth, William, Sarah, Macajah G}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MURRAY, ALEXANDER }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1761 }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MURRAY, ALEXANDER }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1761 Scotland}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: William, David}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MURRAY, DANIEL }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Died: August 5, 1820}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MURRAY, DANIEL }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Died: August 5, 1820 Glasgow, Scotland}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Julia ann, Caroline}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MILLINGTON, PETER}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: In Vermont}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch MILLINGTON, PETER}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1739 Vermont}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Died: 1839}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: (1) Henrietta Boulden}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch (2) Mehetible Glass}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McROBERTS, JAMES}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Mary}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch McROBERTS, JAMES}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: MAry Fletcher}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch NANCE, ZACHARIAH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch NANCE, ZACHARIAH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Thomas, James, Zachariah, Allen, Joshua, Robert, Eaton, Sarah, Parthenia, George H}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch NEWTON, JOSEPH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch NEWTON, JOSEPH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: ann Stephens Robinett}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Isaac, James}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch NIXON, GEORGE, SR. }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch NIXON, GEORGE, SR. }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Buried: Glenwood Cemetery, Coal Valley, Henry county, IL}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: George, Francis}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch O'FLYING, PATRICK }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1750 probably New Hampshire}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch O'FLYING, PATRICK }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1750 Ireland}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Edmund}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch OGLE, JOSEPH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch OGLE, JOSEPH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Catherine, Jemima, Jacob, Priusilla, Benjamin}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch OUTHOUSE, PETER}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch OUTHOUSE, PETER}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Joseph}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch OVERSTREET, JOHN}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1760in Virginia}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch OVERSTREET, JOHN}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1760 Bedford County,  Virginia}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Nancy, Jane, Dabney}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch BARR (O'Barr), HUGH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch BARR (O'Barr), HUGH }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Michael, James, Mary}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PACE, JOEL, SR}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: July 28, 1762 in Virginia }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PACE, JOEL, SR}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: July 28, 1762 Halifax, Virginia }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Joel, Joseph, John, Milly, William, Frances, Patsy}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PALMER, EPHRAIM }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: December17, 1760 in Massachusetts}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PALMER, EPHRAIM }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: December17, 1760 Fairfield County, CT}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Nathan, Mary Ann, Thomas, Abram}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PATTERSON, JAMES }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PATTERSON, JAMES }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Children: Levi, David, Joshua, Jonathan}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PATTERSON, SOLOMON }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: March I, 1763}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PATTERSON, SOLOMON }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: March I, 1763 PA}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Charlotte}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PEEBLES, JOHN }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: January 31, 1763 }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PEEBLES, JOHN }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: January 31, 1763 Craven County, SC}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Jesse, Hannah, Abram, Elizabeth, Mary, Bird, John, William}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PENNEY (Penny), WILLIAM }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PENNEY (Penny), WILLIAM }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Elizabeth Barkley}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Hiram, Ellender, William, Margaret}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PENNINGTON, CHARLES}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: June 6, 1758}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Cassandra Swathlander}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PENNINGTON, CHARLES}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: June 6, 1758 Bucks County, PA}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: (1) Cassandra Swathlander}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch (2) Rachel Sturdevant}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Effie, John}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PERKINS, UTE }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: July 15, 1761 }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PERKINS, UTE }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: July 15, 1761 Anson county, NC}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Ephraim, Levi, Absalom, Reuben}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PIGGOTI, JAMES }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PIGGOTI, JAMES }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: James, Levi, Isaac Newton, Frances}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PINKSTAFF, ANDREW}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PINKSTAFF, ANDREW}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: John, Redmon, Mary}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PINSON, AARON }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PINSON, AARON }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Allen, ann}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PIXLEY (Pigsley), JOB}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PIXLEY (Pigsley), JOB}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: Dighton, MA}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Parthena Patchen}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Isaac}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch POSEY, THOMAS }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: July 9, 1750 in Virginia}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch POSEY, THOMAS }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: July 9, 1750 Fairfield County, Virginia}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Eliza M, Fayette, Sarah, William, John, Thomas, Lloyd}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch POST, CALEB}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: In New Jersey}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch POST, CALEB}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: Morris county,New Jersey}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Abigail}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: James}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch POWELL, LEVIN (EIevcr) H}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch POWELL, LEVIN (EIevcr) H}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: William, Mary, Amy}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch POWERS, ABNER}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch POWERS, ABNER}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Manly}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PRICKETT, GEORGE}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PRICKETT, GEORGE}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Elisha, Abraham}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PRIME (Primm), JOHN}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PRIME (Primm), JOHN}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Peter, Joseph, Thomas, Aram, John, Margaret, Elizabeth, William}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PROCTOR, UTILE PAGE }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PROCTOR, UTILE PAGE }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Mary, Reuben, Malissa Jane, Joseph}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PROCTOR, NICHOLAS }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born : 1755 probably in Virginia }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PROCTOR, NICHOLAS }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born : 1755 Brunswich county,  Virginia }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: (1) rachel Estill}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch (2) Catherine}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: John}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PRUITT, MARTIN }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1748 in Virginia }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Died: 1844 }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PRUITT, MARTIN }{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 7/15/1752 NC}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Died: 2/4/1841}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Mary Hoods}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Solomon, James, Abraham, Jacob, Laodicea}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PUTNAM, HOWARD}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: February 11, 1762}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PUTNAM, HOWARD}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: February 11, 1762 Worcester County, MA}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Hannah, Rufus, Samuel, Eber, MArtha, Sarah}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PYATT (Piatt), EBENEZER}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1755 in Pennsylvania}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PYATT (Piatt), EBENEZER}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Born: 1755  Chester County, Pennsylvania}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: Samuel}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch ORIGINAL:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PILLARS (Pillers), JAMES}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Died: 1833/34}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch CHANGED:}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch PILLARS (Pillers), JAMES}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Died: 17 May 1834}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Spouse: Martha hughes}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\abinodiroverride\ltrch Children: John B, elizabeth, Richard, Sarah}{\s28\f0\fs24\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1033{\*\listtag0}\par}}

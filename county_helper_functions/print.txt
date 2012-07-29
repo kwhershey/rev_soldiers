@@ -1,0 +1,856 @@
+if(!Adams.empty())
+{
+index << "Adams:" << endl;
+for(int i=0;i<Adams.size(); i++)
+{
+index << Adams[i] << endl;
+}
+}
+if(!Alexander.empty())
+{
+index << "Alexander:" << endl;
+for(int i=0;i<Alexander.size(); i++)
+{
+index << Alexander[i] << endl;
+}
+}
+if(!Bond.empty())
+{
+index << "Bond:" << endl;
+for(int i=0;i<Bond.size(); i++)
+{
+index << Bond[i] << endl;
+}
+}
+if(!Boone.empty())
+{
+index << "Boone:" << endl;
+for(int i=0;i<Boone.size(); i++)
+{
+index << Boone[i] << endl;
+}
+}
+if(!Brown.empty())
+{
+index << "Brown:" << endl;
+for(int i=0;i<Brown.size(); i++)
+{
+index << Brown[i] << endl;
+}
+}
+if(!Bureau.empty())
+{
+index << "Bureau:" << endl;
+for(int i=0;i<Bureau.size(); i++)
+{
+index << Bureau[i] << endl;
+}
+}
+if(!Calhoun.empty())
+{
+index << "Calhoun:" << endl;
+for(int i=0;i<Calhoun.size(); i++)
+{
+index << Calhoun[i] << endl;
+}
+}
+if(!Carroll.empty())
+{
+index << "Carroll:" << endl;
+for(int i=0;i<Carroll.size(); i++)
+{
+index << Carroll[i] << endl;
+}
+}
+if(!Cass.empty())
+{
+index << "Cass:" << endl;
+for(int i=0;i<Cass.size(); i++)
+{
+index << Cass[i] << endl;
+}
+}
+if(!Champaign.empty())
+{
+index << "Champaign:" << endl;
+for(int i=0;i<Champaign.size(); i++)
+{
+index << Champaign[i] << endl;
+}
+}
+if(!Christian.empty())
+{
+index << "Christian:" << endl;
+for(int i=0;i<Christian.size(); i++)
+{
+index << Christian[i] << endl;
+}
+}
+if(!Clark.empty())
+{
+index << "Clark:" << endl;
+for(int i=0;i<Clark.size(); i++)
+{
+index << Clark[i] << endl;
+}
+}
+if(!Clay.empty())
+{
+index << "Clay:" << endl;
+for(int i=0;i<Clay.size(); i++)
+{
+index << Clay[i] << endl;
+}
+}
+if(!Clinton.empty())
+{
+index << "Clinton:" << endl;
+for(int i=0;i<Clinton.size(); i++)
+{
+index << Clinton[i] << endl;
+}
+}
+if(!Coles.empty())
+{
+index << "Coles:" << endl;
+for(int i=0;i<Coles.size(); i++)
+{
+index << Coles[i] << endl;
+}
+}
+if(!Cook.empty())
+{
+index << "Cook:" << endl;
+for(int i=0;i<Cook.size(); i++)
+{
+index << Cook[i] << endl;
+}
+}
+if(!Crawford.empty())
+{
+index << "Crawford:" << endl;
+for(int i=0;i<Crawford.size(); i++)
+{
+index << Crawford[i] << endl;
+}
+}
+if(!Cumberland.empty())
+{
+index << "Cumberland:" << endl;
+for(int i=0;i<Cumberland.size(); i++)
+{
+index << Cumberland[i] << endl;
+}
+}
+if(!De.empty())
+{
+index << "De:" << endl;
+for(int i=0;i<De.size(); i++)
+{
+index << De[i] << endl;
+}
+}
+if(!Witt.empty())
+{
+index << "Witt:" << endl;
+for(int i=0;i<Witt.size(); i++)
+{
+index << Witt[i] << endl;
+}
+}
+if(!DeKalb.empty())
+{
+index << "DeKalb:" << endl;
+for(int i=0;i<DeKalb.size(); i++)
+{
+index << DeKalb[i] << endl;
+}
+}
+if(!Douglas.empty())
+{
+index << "Douglas:" << endl;
+for(int i=0;i<Douglas.size(); i++)
+{
+index << Douglas[i] << endl;
+}
+}
+if(!DuPage.empty())
+{
+index << "DuPage:" << endl;
+for(int i=0;i<DuPage.size(); i++)
+{
+index << DuPage[i] << endl;
+}
+}
+if(!Edgar.empty())
+{
+index << "Edgar:" << endl;
+for(int i=0;i<Edgar.size(); i++)
+{
+index << Edgar[i] << endl;
+}
+}
+if(!Edwards.empty())
+{
+index << "Edwards:" << endl;
+for(int i=0;i<Edwards.size(); i++)
+{
+index << Edwards[i] << endl;
+}
+}
+if(!Effingham.empty())
+{
+index << "Effingham:" << endl;
+for(int i=0;i<Effingham.size(); i++)
+{
+index << Effingham[i] << endl;
+}
+}
+if(!Fayette.empty())
+{
+index << "Fayette:" << endl;
+for(int i=0;i<Fayette.size(); i++)
+{
+index << Fayette[i] << endl;
+}
+}
+if(!Ford.empty())
+{
+index << "Ford:" << endl;
+for(int i=0;i<Ford.size(); i++)
+{
+index << Ford[i] << endl;
+}
+}
+if(!Franklin.empty())
+{
+index << "Franklin:" << endl;
+for(int i=0;i<Franklin.size(); i++)
+{
+index << Franklin[i] << endl;
+}
+}
+if(!Fulton.empty())
+{
+index << "Fulton:" << endl;
+for(int i=0;i<Fulton.size(); i++)
+{
+index << Fulton[i] << endl;
+}
+}
+if(!Gallatin.empty())
+{
+index << "Gallatin:" << endl;
+for(int i=0;i<Gallatin.size(); i++)
+{
+index << Gallatin[i] << endl;
+}
+}
+if(!Greene.empty())
+{
+index << "Greene:" << endl;
+for(int i=0;i<Greene.size(); i++)
+{
+index << Greene[i] << endl;
+}
+}
+if(!Grundy.empty())
+{
+index << "Grundy:" << endl;
+for(int i=0;i<Grundy.size(); i++)
+{
+index << Grundy[i] << endl;
+}
+}
+if(!Hamilton.empty())
+{
+index << "Hamilton:" << endl;
+for(int i=0;i<Hamilton.size(); i++)
+{
+index << Hamilton[i] << endl;
+}
+}
+if(!Hancock.empty())
+{
+index << "Hancock:" << endl;
+for(int i=0;i<Hancock.size(); i++)
+{
+index << Hancock[i] << endl;
+}
+}
+if(!Hardin.empty())
+{
+index << "Hardin:" << endl;
+for(int i=0;i<Hardin.size(); i++)
+{
+index << Hardin[i] << endl;
+}
+}
+if(!Henderson.empty())
+{
+index << "Henderson:" << endl;
+for(int i=0;i<Henderson.size(); i++)
+{
+index << Henderson[i] << endl;
+}
+}
+if(!Henry.empty())
+{
+index << "Henry:" << endl;
+for(int i=0;i<Henry.size(); i++)
+{
+index << Henry[i] << endl;
+}
+}
+if(!Iroquois.empty())
+{
+index << "Iroquois:" << endl;
+for(int i=0;i<Iroquois.size(); i++)
+{
+index << Iroquois[i] << endl;
+}
+}
+if(!Jackson.empty())
+{
+index << "Jackson:" << endl;
+for(int i=0;i<Jackson.size(); i++)
+{
+index << Jackson[i] << endl;
+}
+}
+if(!Jasper.empty())
+{
+index << "Jasper:" << endl;
+for(int i=0;i<Jasper.size(); i++)
+{
+index << Jasper[i] << endl;
+}
+}
+if(!Jefferson.empty())
+{
+index << "Jefferson:" << endl;
+for(int i=0;i<Jefferson.size(); i++)
+{
+index << Jefferson[i] << endl;
+}
+}
+if(!Jersey.empty())
+{
+index << "Jersey:" << endl;
+for(int i=0;i<Jersey.size(); i++)
+{
+index << Jersey[i] << endl;
+}
+}
+if(!Jo.empty())
+{
+index << "Jo:" << endl;
+for(int i=0;i<Jo.size(); i++)
+{
+index << Jo[i] << endl;
+}
+}
+if(!Daviess.empty())
+{
+index << "Daviess:" << endl;
+for(int i=0;i<Daviess.size(); i++)
+{
+index << Daviess[i] << endl;
+}
+}
+if(!Johnson.empty())
+{
+index << "Johnson:" << endl;
+for(int i=0;i<Johnson.size(); i++)
+{
+index << Johnson[i] << endl;
+}
+}
+if(!Kane.empty())
+{
+index << "Kane:" << endl;
+for(int i=0;i<Kane.size(); i++)
+{
+index << Kane[i] << endl;
+}
+}
+if(!Kankakee.empty())
+{
+index << "Kankakee:" << endl;
+for(int i=0;i<Kankakee.size(); i++)
+{
+index << Kankakee[i] << endl;
+}
+}
+if(!Kendall.empty())
+{
+index << "Kendall:" << endl;
+for(int i=0;i<Kendall.size(); i++)
+{
+index << Kendall[i] << endl;
+}
+}
+if(!Knox.empty())
+{
+index << "Knox:" << endl;
+for(int i=0;i<Knox.size(); i++)
+{
+index << Knox[i] << endl;
+}
+}
+if(!Lake.empty())
+{
+index << "Lake:" << endl;
+for(int i=0;i<Lake.size(); i++)
+{
+index << Lake[i] << endl;
+}
+}
+if(!LaSalle.empty())
+{
+index << "LaSalle:" << endl;
+for(int i=0;i<LaSalle.size(); i++)
+{
+index << LaSalle[i] << endl;
+}
+}
+if(!Lawrence.empty())
+{
+index << "Lawrence:" << endl;
+for(int i=0;i<Lawrence.size(); i++)
+{
+index << Lawrence[i] << endl;
+}
+}
+if(!Lee.empty())
+{
+index << "Lee:" << endl;
+for(int i=0;i<Lee.size(); i++)
+{
+index << Lee[i] << endl;
+}
+}
+if(!Livingston.empty())
+{
+index << "Livingston:" << endl;
+for(int i=0;i<Livingston.size(); i++)
+{
+index << Livingston[i] << endl;
+}
+}
+if(!Logan.empty())
+{
+index << "Logan:" << endl;
+for(int i=0;i<Logan.size(); i++)
+{
+index << Logan[i] << endl;
+}
+}
+if(!Macon.empty())
+{
+index << "Macon:" << endl;
+for(int i=0;i<Macon.size(); i++)
+{
+index << Macon[i] << endl;
+}
+}
+if(!Macoupin.empty())
+{
+index << "Macoupin:" << endl;
+for(int i=0;i<Macoupin.size(); i++)
+{
+index << Macoupin[i] << endl;
+}
+}
+if(!Madison.empty())
+{
+index << "Madison:" << endl;
+for(int i=0;i<Madison.size(); i++)
+{
+index << Madison[i] << endl;
+}
+}
+if(!Marion.empty())
+{
+index << "Marion:" << endl;
+for(int i=0;i<Marion.size(); i++)
+{
+index << Marion[i] << endl;
+}
+}
+if(!Marshall.empty())
+{
+index << "Marshall:" << endl;
+for(int i=0;i<Marshall.size(); i++)
+{
+index << Marshall[i] << endl;
+}
+}
+if(!Mason.empty())
+{
+index << "Mason:" << endl;
+for(int i=0;i<Mason.size(); i++)
+{
+index << Mason[i] << endl;
+}
+}
+if(!Massac.empty())
+{
+index << "Massac:" << endl;
+for(int i=0;i<Massac.size(); i++)
+{
+index << Massac[i] << endl;
+}
+}
+if(!McDonough.empty())
+{
+index << "McDonough:" << endl;
+for(int i=0;i<McDonough.size(); i++)
+{
+index << McDonough[i] << endl;
+}
+}
+if(!McHenry.empty())
+{
+index << "McHenry:" << endl;
+for(int i=0;i<McHenry.size(); i++)
+{
+index << McHenry[i] << endl;
+}
+}
+if(!McLean.empty())
+{
+index << "McLean:" << endl;
+for(int i=0;i<McLean.size(); i++)
+{
+index << McLean[i] << endl;
+}
+}
+if(!Menard.empty())
+{
+index << "Menard:" << endl;
+for(int i=0;i<Menard.size(); i++)
+{
+index << Menard[i] << endl;
+}
+}
+if(!Mercer.empty())
+{
+index << "Mercer:" << endl;
+for(int i=0;i<Mercer.size(); i++)
+{
+index << Mercer[i] << endl;
+}
+}
+if(!Monroe.empty())
+{
+index << "Monroe:" << endl;
+for(int i=0;i<Monroe.size(); i++)
+{
+index << Monroe[i] << endl;
+}
+}
+if(!Montgomery.empty())
+{
+index << "Montgomery:" << endl;
+for(int i=0;i<Montgomery.size(); i++)
+{
+index << Montgomery[i] << endl;
+}
+}
+if(!Morgan.empty())
+{
+index << "Morgan:" << endl;
+for(int i=0;i<Morgan.size(); i++)
+{
+index << Morgan[i] << endl;
+}
+}
+if(!Moultrie.empty())
+{
+index << "Moultrie:" << endl;
+for(int i=0;i<Moultrie.size(); i++)
+{
+index << Moultrie[i] << endl;
+}
+}
+if(!Ogle.empty())
+{
+index << "Ogle:" << endl;
+for(int i=0;i<Ogle.size(); i++)
+{
+index << Ogle[i] << endl;
+}
+}
+if(!Peoria.empty())
+{
+index << "Peoria:" << endl;
+for(int i=0;i<Peoria.size(); i++)
+{
+index << Peoria[i] << endl;
+}
+}
+if(!Perry.empty())
+{
+index << "Perry:" << endl;
+for(int i=0;i<Perry.size(); i++)
+{
+index << Perry[i] << endl;
+}
+}
+if(!Piatt.empty())
+{
+index << "Piatt:" << endl;
+for(int i=0;i<Piatt.size(); i++)
+{
+index << Piatt[i] << endl;
+}
+}
+if(!Pike.empty())
+{
+index << "Pike:" << endl;
+for(int i=0;i<Pike.size(); i++)
+{
+index << Pike[i] << endl;
+}
+}
+if(!Pope.empty())
+{
+index << "Pope:" << endl;
+for(int i=0;i<Pope.size(); i++)
+{
+index << Pope[i] << endl;
+}
+}
+if(!Pulaski.empty())
+{
+index << "Pulaski:" << endl;
+for(int i=0;i<Pulaski.size(); i++)
+{
+index << Pulaski[i] << endl;
+}
+}
+if(!Putnam.empty())
+{
+index << "Putnam:" << endl;
+for(int i=0;i<Putnam.size(); i++)
+{
+index << Putnam[i] << endl;
+}
+}
+if(!Randolph.empty())
+{
+index << "Randolph:" << endl;
+for(int i=0;i<Randolph.size(); i++)
+{
+index << Randolph[i] << endl;
+}
+}
+if(!Richland.empty())
+{
+index << "Richland:" << endl;
+for(int i=0;i<Richland.size(); i++)
+{
+index << Richland[i] << endl;
+}
+}
+if(!Rock.empty())
+{
+index << "Rock:" << endl;
+for(int i=0;i<Rock.size(); i++)
+{
+index << Rock[i] << endl;
+}
+}
+if(!Island.empty())
+{
+index << "Island:" << endl;
+for(int i=0;i<Island.size(); i++)
+{
+index << Island[i] << endl;
+}
+}
+if(!Saline.empty())
+{
+index << "Saline:" << endl;
+for(int i=0;i<Saline.size(); i++)
+{
+index << Saline[i] << endl;
+}
+}
+if(!Sangamon.empty())
+{
+index << "Sangamon:" << endl;
+for(int i=0;i<Sangamon.size(); i++)
+{
+index << Sangamon[i] << endl;
+}
+}
+if(!Schuyler.empty())
+{
+index << "Schuyler:" << endl;
+for(int i=0;i<Schuyler.size(); i++)
+{
+index << Schuyler[i] << endl;
+}
+}
+if(!Scott.empty())
+{
+index << "Scott:" << endl;
+for(int i=0;i<Scott.size(); i++)
+{
+index << Scott[i] << endl;
+}
+}
+if(!Shelby.empty())
+{
+index << "Shelby:" << endl;
+for(int i=0;i<Shelby.size(); i++)
+{
+index << Shelby[i] << endl;
+}
+}
+if(!St..empty())
+{
+index << "St.:" << endl;
+for(int i=0;i<St..size(); i++)
+{
+index << St.[i] << endl;
+}
+}
+if(!Clair.empty())
+{
+index << "Clair:" << endl;
+for(int i=0;i<Clair.size(); i++)
+{
+index << Clair[i] << endl;
+}
+}
+if(!Stark.empty())
+{
+index << "Stark:" << endl;
+for(int i=0;i<Stark.size(); i++)
+{
+index << Stark[i] << endl;
+}
+}
+if(!Stephenson.empty())
+{
+index << "Stephenson:" << endl;
+for(int i=0;i<Stephenson.size(); i++)
+{
+index << Stephenson[i] << endl;
+}
+}
+if(!Tazewell.empty())
+{
+index << "Tazewell:" << endl;
+for(int i=0;i<Tazewell.size(); i++)
+{
+index << Tazewell[i] << endl;
+}
+}
+if(!Union.empty())
+{
+index << "Union:" << endl;
+for(int i=0;i<Union.size(); i++)
+{
+index << Union[i] << endl;
+}
+}
+if(!Vermilion.empty())
+{
+index << "Vermilion:" << endl;
+for(int i=0;i<Vermilion.size(); i++)
+{
+index << Vermilion[i] << endl;
+}
+}
+if(!Wabash.empty())
+{
+index << "Wabash:" << endl;
+for(int i=0;i<Wabash.size(); i++)
+{
+index << Wabash[i] << endl;
+}
+}
+if(!Warren.empty())
+{
+index << "Warren:" << endl;
+for(int i=0;i<Warren.size(); i++)
+{
+index << Warren[i] << endl;
+}
+}
+if(!Washington.empty())
+{
+index << "Washington:" << endl;
+for(int i=0;i<Washington.size(); i++)
+{
+index << Washington[i] << endl;
+}
+}
+if(!Wayne.empty())
+{
+index << "Wayne:" << endl;
+for(int i=0;i<Wayne.size(); i++)
+{
+index << Wayne[i] << endl;
+}
+}
+if(!White.empty())
+{
+index << "White:" << endl;
+for(int i=0;i<White.size(); i++)
+{
+index << White[i] << endl;
+}
+}
+if(!Whiteside.empty())
+{
+index << "Whiteside:" << endl;
+for(int i=0;i<Whiteside.size(); i++)
+{
+index << Whiteside[i] << endl;
+}
+}
+if(!Will.empty())
+{
+index << "Will:" << endl;
+for(int i=0;i<Will.size(); i++)
+{
+index << Will[i] << endl;
+}
+}
+if(!Williamson.empty())
+{
+index << "Williamson:" << endl;
+for(int i=0;i<Williamson.size(); i++)
+{
+index << Williamson[i] << endl;
+}
+}
+if(!Winnebago.empty())
+{
+index << "Winnebago:" << endl;
+for(int i=0;i<Winnebago.size(); i++)
+{
+index << Winnebago[i] << endl;
+}
+}
+if(!Woodford.empty())
+{
+index << "Woodford:" << endl;
+for(int i=0;i<Woodford.size(); i++)
+{
+index << Woodford[i] << endl;
+}
+}
+if(!Woodford.empty())
+{
+index << "Woodford:" << endl;
+for(int i=0;i<Woodford.size(); i++)
+{
+index << Woodford[i] << endl;
+}
+}

@@ -1,0 +1,317 @@
+ORIGINAL:
+
+DUNLAP, WILLIAM
+Buried: Near Villas, Crawford County, Illinois 
+
+CHANGED:
+
+DUNLAP, WILLIAM
+Buried: Villas, Crawford County, Illinois 
+
+ORIGINAL:
+DAGLEY, THOMAS 
+
+CHANGED:
+DAGLEY, THOMAS 
+Spouse: Rebecca Nealy
+Children: Ruth, Hannah, Samuel, Rebecca
+
+ORIGINAL:
+DAMERON (Damron), JOHN
+Born:  January 12, 1757 
+Died: April 15, 1835 
+Service: Soldier; Virginia 
+
+CHANGED:
+DAMERON (Damron), JOHN
+Born:  January 12, 1757 Northumberland County, VA
+Died: April 15, 1835 Creal Strings Franklin County, IL
+Children: John, George, Elvina, Moses, Malissa
+Service: Soldier; Virginia. Capt Henry Dudley, Col Gregory Smith
+
+ORIGINAL:
+DANIS, MICHAEL
+
+CHANGED:
+DANIS, MICHAEL
+Born: 4/16/1760 Kaskaskia, Canada
+Spouse: Elizabeth Bienvenu
+Children: Marie Barbe, Arthmise
+
+ORIGINAL:
+DAVIS, AQUILLA 
+
+CHANGED:
+DAVIS, AQUILLA 
+Spouse: Isabell Briggs
+Children: Judith Wroe Chun Briggs, William, Marion, Alexander, Edward
+
+ORIGINAL:
+DAWSON, JOHN 
+
+CHANGED:
+DAWSON, JOHN 
+Children: Lemuel, Bernard, Samuel
+
+ORIGINAL:
+DAY, EDWARD D., SR. 
+
+CHANGED:
+DAY, EDWARD D., SR. 
+Children: Benjamin, Rebecca, William S, Valentine
+
+ORIGINAL:
+DECK, MICHAEL 
+Children: Thirteen
+
+CHANGED:
+DECK, MICHAEL 
+Children: Felix, Elizabeth Susan, Margaret
+
+ORIGINAL:
+DENISON, WILLIAM, SR. 
+
+CHANGED:
+DENISON, WILLIAM, SR. 
+Children: John W, Erastus, Sarah, Joseph Arnel
+
+ORIGINAL:
+DENNY (Denney), CHARLES
+
+CHANGED:
+DENNY (Denney), CHARLES
+Children: Hepsibah Maria, Lysander
+
+ORIGINAL:
+DICKEY, WILLIAM 
+Born: May 6, 1764 
+
+CHANGED:
+DICKEY, WILLIAM 
+Born: May 6, 1764 VA
+Children: John, William, David, Andrew, Jesse
+
+ORIGINAL:
+DOLLAR, WILLIAM
+
+CHANGED:
+DOLLAR, WILLIAM
+Children: Mary, Lydia, Joseph, James
+
+ORIGINAL:
+DOYLE, JOHN 
+Buried: Randolph County, Illinois 
+
+CHANGED:
+DOYLE, JOHN 
+Born: ante 1765 Augusta County, VA
+Died: 10/20/1819
+Buried: Kaskaskia, Randolph County, Illinois 
+Spouse: Chloe Smith
+Children: Elizabeth
+
+ORIGINAL:
+DOZIER (Dauge, Doscher, Dosher), PETER
+
+CHANGED:
+DOZIER (Dauge, Doscher, Dosher), PETER
+Children: Margaret, Nancy
+
+ORIGINAL:
+DUNLAP, WILLIAM
+
+CHANGED:
+DUNLAP, WILLIAM
+Spouse: Nancy Waldrop/Waldrap
+Children: William, Hannah
+
+ORIGINAL:
+DOWDEN, CLEMENTIUS
+
+CHANGED:
+DOWDEN, CLEMENTIUS
+Child: Lucy
+
+ORIGINAL:
+DUDLEY, JOHN 
+Children: John
+
+CHANGED:
+DUDLEY, JOHN 
+Children: John, Sarah, Abigail
+
+ORIGINAL:
+EDERLIN (Edelin, Edlin), CLEMENT 
+Spouse: Lucy Ammons 
+
+CHANGED:
+EDERLIN (Edelin, Edlin), CLEMENT 
+Spouse: (1) Lucy Ammons
+(2) Ann Simpon
+
+ORIGINAL:
+ELLIS , JOHN 
+
+CHANGED:
+ELLIS , JOHN 
+Children: John
+
+ORIGINAL:
+ESSARY, JOHN 
+
+CHANGED:
+ESSARY, JOHN 
+Children: Jonathon, Hester, Clark, Sarah, Abigail, Jesse, Sarah, Nancy
+
+ORIGINAL:
+EVANS, JOSEPH 
+
+CHANGED:
+EVANS, JOSEPH 
+Spouse: Mary
+Children: Joseph
+
+ORIGINAL:
+EVELAND, FREDERICK 
+
+CHANGED:
+Spouse: (1) Catrina Van Gorden
+(2) Nancy Lee
+(3) _____ Brock
+Children: John
+
+ORIGINAL:
+FARLEY, FRANCIS, SR. 
+
+CHANGED:
+FARLEY, FRANCIS, SR. 
+Children: Drewry/Drury, Edward, Johana, Francis
+
+ORIGINAL:
+FELLOWS, WILLIS 
+
+CHANGED:
+FELLOWS, WILLIS 
+Children: Hart, Willis
+
+ORIGINAL:
+FERGUSON, LEWIS , SR. 
+
+CHANGED:
+Spouse: Molly Piper
+Children: Marshall, ELijah, Alexander
+
+ORIGINAL:
+FESLER, JOHN 
+
+CHANGED:
+FESLER, JOHN 
+Children: Adam
+
+ORIGINAL:
+FIELD, LEWIS 
+
+CHANGED:
+FIELD, LEWIS 
+Children: Mildred, Daniel
+
+ORIGINAL:
+FILES, JOHN, JR. 
+Spouse: Mary Foils
+
+CHANGED:
+FILES, JOHN, JR. 
+Spouse: (1) Mary Foils
+(2) Ann Eddy
+Children: Thomas Elisha, William Eddy
+
+ORIGINAL:
+FINLEY, DAVID 
+
+CHANGED:
+FINLEY, DAVID 
+Children: Alexander, Isabelle, Prudence, Isabelle
+
+ORIGINAL:
+FINN, PETER 
+
+CHANGED:
+FINN, PETER 
+Spouse: Mary Wheeler
+Children: John, Meshach, Mary Polly
+
+ORIGINAL:
+FISK, ROBERT 
+
+CHANGED:
+FISK, ROBERT 
+Children: Abraham, Henry A.
+
+ORIGINAL:
+FLATT, JOHN 
+
+CHANGED:
+FLATT, JOHN 
+Spouse: Patience Logston
+Children: Edward, Hannah
+
+ORIGINAL:
+FLETCHER, ISAAC 
+
+CHANGED:
+FLETCHER, ISAAC 
+Children: Sophia, Charlotte, Sarah, Isaac G.
+
+ORIGINAL:
+FLORA (Florey, Flory), JOHN 
+Spouse: Mary Ott
+
+CHANGED:
+FLORA (Florey, Flory), JOHN 
+Spouse: (1) Mary Ott
+(2) Elizabeth
+Children: Virginia Ann, Mary, Jonathan
+
+ORIGINAL:
+FOSTER, NATHANIEL 
+
+CHANGED:
+FOSTER, NATHANIEL 
+Children: Ann
+
+ORIGINAL:
+FOWLER, WILLIAM 
+
+CHANGED:
+FOWLER, WILLIAM 
+Children: Rachel
+
+ORIGINAL:
+FRICK, JACOB 
+
+CHANGED:
+FRICK, JACOB 
+Children: Jacob, Paul, Elizabeth
+
+ORIGINAL:
+FRUIT, JAMES SAMUEL 
+
+CHANGED:
+FRUIT, JAMES SAMUEL 
+Children: Thomas C, Edmund, Enoch, Alexander
+
+ORIGINAL:
+FRY, ROBERT (see also Friatt, Robert) 
+
+CHANGED:
+FRY, ROBERT (see also Friatt, Robert) 
+Spouse: Ann Cadwalder
+Children: Abraham V, Isaac
+Residence: Fallowfield twp, Washington County, PA
+
+ORIGINAL:
+FRIATT, ROBERT 
+
+CHANGED:
+FRIATT, ROBERT 
+Marker: Dutch Church Cemetery, Jackson County, IL

@@ -1,0 +1,428 @@
+else if(newcounty=="Adams")
+{
+Adams.push_back(newperson.name);
+}
+else if(newcounty=="Alexander")
+{
+Alexander.push_back(newperson.name);
+}
+else if(newcounty=="Bond")
+{
+Bond.push_back(newperson.name);
+}
+else if(newcounty=="Boone")
+{
+Boone.push_back(newperson.name);
+}
+else if(newcounty=="Brown")
+{
+Brown.push_back(newperson.name);
+}
+else if(newcounty=="Bureau")
+{
+Bureau.push_back(newperson.name);
+}
+else if(newcounty=="Calhoun")
+{
+Calhoun.push_back(newperson.name);
+}
+else if(newcounty=="Carroll")
+{
+Carroll.push_back(newperson.name);
+}
+else if(newcounty=="Cass")
+{
+Cass.push_back(newperson.name);
+}
+else if(newcounty=="Champaign")
+{
+Champaign.push_back(newperson.name);
+}
+else if(newcounty=="Christian")
+{
+Christian.push_back(newperson.name);
+}
+else if(newcounty=="Clark")
+{
+Clark.push_back(newperson.name);
+}
+else if(newcounty=="Clay")
+{
+Clay.push_back(newperson.name);
+}
+else if(newcounty=="Clinton")
+{
+Clinton.push_back(newperson.name);
+}
+else if(newcounty=="Coles")
+{
+Coles.push_back(newperson.name);
+}
+else if(newcounty=="Cook")
+{
+Cook.push_back(newperson.name);
+}
+else if(newcounty=="Crawford")
+{
+Crawford.push_back(newperson.name);
+}
+else if(newcounty=="Cumberland")
+{
+Cumberland.push_back(newperson.name);
+}
+else if(newcounty=="De")
+{
+De.push_back(newperson.name);
+}
+else if(newcounty=="Witt")
+{
+Witt.push_back(newperson.name);
+}
+else if(newcounty=="DeKalb")
+{
+DeKalb.push_back(newperson.name);
+}
+else if(newcounty=="Douglas")
+{
+Douglas.push_back(newperson.name);
+}
+else if(newcounty=="DuPage")
+{
+DuPage.push_back(newperson.name);
+}
+else if(newcounty=="Edgar")
+{
+Edgar.push_back(newperson.name);
+}
+else if(newcounty=="Edwards")
+{
+Edwards.push_back(newperson.name);
+}
+else if(newcounty=="Effingham")
+{
+Effingham.push_back(newperson.name);
+}
+else if(newcounty=="Fayette")
+{
+Fayette.push_back(newperson.name);
+}
+else if(newcounty=="Ford")
+{
+Ford.push_back(newperson.name);
+}
+else if(newcounty=="Franklin")
+{
+Franklin.push_back(newperson.name);
+}
+else if(newcounty=="Fulton")
+{
+Fulton.push_back(newperson.name);
+}
+else if(newcounty=="Gallatin")
+{
+Gallatin.push_back(newperson.name);
+}
+else if(newcounty=="Greene")
+{
+Greene.push_back(newperson.name);
+}
+else if(newcounty=="Grundy")
+{
+Grundy.push_back(newperson.name);
+}
+else if(newcounty=="Hamilton")
+{
+Hamilton.push_back(newperson.name);
+}
+else if(newcounty=="Hancock")
+{
+Hancock.push_back(newperson.name);
+}
+else if(newcounty=="Hardin")
+{
+Hardin.push_back(newperson.name);
+}
+else if(newcounty=="Henderson")
+{
+Henderson.push_back(newperson.name);
+}
+else if(newcounty=="Henry")
+{
+Henry.push_back(newperson.name);
+}
+else if(newcounty=="Iroquois")
+{
+Iroquois.push_back(newperson.name);
+}
+else if(newcounty=="Jackson")
+{
+Jackson.push_back(newperson.name);
+}
+else if(newcounty=="Jasper")
+{
+Jasper.push_back(newperson.name);
+}
+else if(newcounty=="Jefferson")
+{
+Jefferson.push_back(newperson.name);
+}
+else if(newcounty=="Jersey")
+{
+Jersey.push_back(newperson.name);
+}
+else if(newcounty=="Jo")
+{
+Jo.push_back(newperson.name);
+}
+else if(newcounty=="Daviess")
+{
+Daviess.push_back(newperson.name);
+}
+else if(newcounty=="Johnson")
+{
+Johnson.push_back(newperson.name);
+}
+else if(newcounty=="Kane")
+{
+Kane.push_back(newperson.name);
+}
+else if(newcounty=="Kankakee")
+{
+Kankakee.push_back(newperson.name);
+}
+else if(newcounty=="Kendall")
+{
+Kendall.push_back(newperson.name);
+}
+else if(newcounty=="Knox")
+{
+Knox.push_back(newperson.name);
+}
+else if(newcounty=="Lake")
+{
+Lake.push_back(newperson.name);
+}
+else if(newcounty=="LaSalle")
+{
+LaSalle.push_back(newperson.name);
+}
+else if(newcounty=="Lawrence")
+{
+Lawrence.push_back(newperson.name);
+}
+else if(newcounty=="Lee")
+{
+Lee.push_back(newperson.name);
+}
+else if(newcounty=="Livingston")
+{
+Livingston.push_back(newperson.name);
+}
+else if(newcounty=="Logan")
+{
+Logan.push_back(newperson.name);
+}
+else if(newcounty=="Macon")
+{
+Macon.push_back(newperson.name);
+}
+else if(newcounty=="Macoupin")
+{
+Macoupin.push_back(newperson.name);
+}
+else if(newcounty=="Madison")
+{
+Madison.push_back(newperson.name);
+}
+else if(newcounty=="Marion")
+{
+Marion.push_back(newperson.name);
+}
+else if(newcounty=="Marshall")
+{
+Marshall.push_back(newperson.name);
+}
+else if(newcounty=="Mason")
+{
+Mason.push_back(newperson.name);
+}
+else if(newcounty=="Massac")
+{
+Massac.push_back(newperson.name);
+}
+else if(newcounty=="McDonough")
+{
+McDonough.push_back(newperson.name);
+}
+else if(newcounty=="McHenry")
+{
+McHenry.push_back(newperson.name);
+}
+else if(newcounty=="McLean")
+{
+McLean.push_back(newperson.name);
+}
+else if(newcounty=="Menard")
+{
+Menard.push_back(newperson.name);
+}
+else if(newcounty=="Mercer")
+{
+Mercer.push_back(newperson.name);
+}
+else if(newcounty=="Monroe")
+{
+Monroe.push_back(newperson.name);
+}
+else if(newcounty=="Montgomery")
+{
+Montgomery.push_back(newperson.name);
+}
+else if(newcounty=="Morgan")
+{
+Morgan.push_back(newperson.name);
+}
+else if(newcounty=="Moultrie")
+{
+Moultrie.push_back(newperson.name);
+}
+else if(newcounty=="Ogle")
+{
+Ogle.push_back(newperson.name);
+}
+else if(newcounty=="Peoria")
+{
+Peoria.push_back(newperson.name);
+}
+else if(newcounty=="Perry")
+{
+Perry.push_back(newperson.name);
+}
+else if(newcounty=="Piatt")
+{
+Piatt.push_back(newperson.name);
+}
+else if(newcounty=="Pike")
+{
+Pike.push_back(newperson.name);
+}
+else if(newcounty=="Pope")
+{
+Pope.push_back(newperson.name);
+}
+else if(newcounty=="Pulaski")
+{
+Pulaski.push_back(newperson.name);
+}
+else if(newcounty=="Putnam")
+{
+Putnam.push_back(newperson.name);
+}
+else if(newcounty=="Randolph")
+{
+Randolph.push_back(newperson.name);
+}
+else if(newcounty=="Richland")
+{
+Richland.push_back(newperson.name);
+}
+else if(newcounty=="Rock")
+{
+Rock.push_back(newperson.name);
+}
+else if(newcounty=="Island")
+{
+Island.push_back(newperson.name);
+}
+else if(newcounty=="Saline")
+{
+Saline.push_back(newperson.name);
+}
+else if(newcounty=="Sangamon")
+{
+Sangamon.push_back(newperson.name);
+}
+else if(newcounty=="Schuyler")
+{
+Schuyler.push_back(newperson.name);
+}
+else if(newcounty=="Scott")
+{
+Scott.push_back(newperson.name);
+}
+else if(newcounty=="Shelby")
+{
+Shelby.push_back(newperson.name);
+}
+else if(newcounty=="St.")
+{
+St..push_back(newperson.name);
+}
+else if(newcounty=="Clair")
+{
+Clair.push_back(newperson.name);
+}
+else if(newcounty=="Stark")
+{
+Stark.push_back(newperson.name);
+}
+else if(newcounty=="Stephenson")
+{
+Stephenson.push_back(newperson.name);
+}
+else if(newcounty=="Tazewell")
+{
+Tazewell.push_back(newperson.name);
+}
+else if(newcounty=="Union")
+{
+Union.push_back(newperson.name);
+}
+else if(newcounty=="Vermilion")
+{
+Vermilion.push_back(newperson.name);
+}
+else if(newcounty=="Wabash")
+{
+Wabash.push_back(newperson.name);
+}
+else if(newcounty=="Warren")
+{
+Warren.push_back(newperson.name);
+}
+else if(newcounty=="Washington")
+{
+Washington.push_back(newperson.name);
+}
+else if(newcounty=="Wayne")
+{
+Wayne.push_back(newperson.name);
+}
+else if(newcounty=="White")
+{
+White.push_back(newperson.name);
+}
+else if(newcounty=="Whiteside")
+{
+Whiteside.push_back(newperson.name);
+}
+else if(newcounty=="Will")
+{
+Will.push_back(newperson.name);
+}
+else if(newcounty=="Williamson")
+{
+Williamson.push_back(newperson.name);
+}
+else if(newcounty=="Winnebago")
+{
+Winnebago.push_back(newperson.name);
+}
+else if(newcounty=="Woodford")
+{
+Woodford.push_back(newperson.name);
+}
+else if(newcounty=="")
+{
+.push_back(newperson.name);
+}
